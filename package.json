@@ -1,0 +1,22 @@
+{
+  "name": "adventofcode_2021",
+  "version": "1.0.0",
+  "description": "Advent of Code 2021",
+  "main": "index.js",
+   "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KittyGarrison/AdventOfCode_2021.git"
+  },
+  "author": "Kitty Garrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KittyGarrison/AdventOfCode_2021/issues"
+  },
+  "homepage": "https://github.com/KittyGarrison/AdventOfCode_2021#readme"
+}
