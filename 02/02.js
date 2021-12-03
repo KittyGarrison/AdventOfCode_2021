@@ -41,10 +41,8 @@ function dataToArray(data) {
 
 function evaluate(array) {
     array.forEach((direction) => {
-        console.log(typeof direction);
         directionArray = direction.split(" ");
         let distance = parseInt(directionArray[1]);
-        console.log(distance);
         switch (direction[0].charAt(0)) {
             case "u": // up
                 positionReport.ascend(distance);
